@@ -1,16 +1,26 @@
-## Hi there 👋
+Lio Mercer
 
-<!--
-**LioMercer/LioMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack learner. Quiet builder.
+I create simple tools, clean interfaces, and small experiments that help me grow as a developer.
 
-Here are some ideas to get you started:
+What I’m about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning full-stack development
+
+Building apps, websites, and automation tools
+
+Exploring security basics & system design
+
+Publishing projects to track my progress
+
+
+Currently working on:
+
+Improving my JavaScript & backend skills
+
+Setting up my developer workflow
+
+Small projects that make me better every week
+
+Contact📧: 
+liomercer.dev@proton.me
